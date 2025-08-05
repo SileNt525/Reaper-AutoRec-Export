@@ -65,5 +65,4 @@ The script operates on a "record-stop-export-resume" cycle. When the recording t
 
 ## **Credits / 鸣谢**
 
-* **Author:** Vega Sun \- Riedel  
 * **AI Assistant:** Gemini by Google
